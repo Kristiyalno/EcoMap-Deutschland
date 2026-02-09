@@ -3,97 +3,97 @@ import { StateAnalysis } from '../types';
 export const ANALYSIS_CONTENT: Record<string, StateAnalysis> = {
   BW: {
     title: "Baden-Württemberg",
-    score: 86,
-    text: "Baden-Württemberg investiert viel in grüne Technologien. Es gibt viele Projekte für Elektroautos, Solarenergie und energieeffiziente Gebäude. Die Städte bauen mehr Fahrradwege und moderne Bahnsysteme."
+    score: 79,
+    text: "Dieses Land hat schon lange einen Plan für die Natur. Es gibt Programme für das Klima. Häuser sollen wenig Energie brauchen. Firmen sollen sauber arbeiten."
   },
 
   BY: {
     title: "Bayern",
-    score: 80,
-    text: "Bayern nutzt viel erneuerbare Energie wie Wasserkraft und Solarstrom. Das Bundesland schützt die Alpen und fördert nachhaltigen Tourismus. Der Autoverkehr ist aber noch ein großes Problem."
+    score: 88,
+    text: "Bayern hat einen Plan für die Umwelt. Das Land schreibt oft Berichte über seine Erfolge. Es gibt Hilfe für Windkraft, Batterien und Elektro-Autos."
   },
 
   BE: {
     title: "Berlin",
-    score: 74,
-    text: "Berlin arbeitet stark an nachhaltigem Verkehr. Es gibt viele Busse, Bahnen und Fahrradwege. Die Stadt fördert Recycling und grüne Start-ups, hat aber noch Probleme mit Müll und hoher Bevölkerungsdichte."
+    score: 76,
+    text: "Berlin baut viele Radwege und nutzt Busse und Bahnen. In der großen Stadt mit vielen Menschen ist Umweltschutz aber oft schwierig."
   },
 
   BB: {
     title: "Brandenburg",
-    score: 78,
-    text: "Brandenburg ist sehr wichtig für Windenergie in Deutschland. Viele Dörfer nutzen Solarstrom und Biomasse. Es gibt große Naturschutzgebiete und neue Projekte für den Kohleausstieg."
+    score: 94,
+    text: "Brandenburg gibt viel Geld für Wind und Sonne aus. Städte und Firmen bekommen Hilfe. Es gibt auch mehr Plätze zum Laden für Elektro-Autos."
   },
 
   HB: {
     title: "Bremen",
-    score: 70,
-    text: "Bremen versucht, den Hafen umweltfreundlicher zu machen. Es gibt Projekte für saubere Schiffe und weniger Plastik. Der Nahverkehr wird verbessert, aber die Industrie verursacht noch viele Emissionen."
+    score: 68,
+    text: "Bremen schreibt Berichte über die Umwelt. Die Stadt hilft bei Häusern und Bussen. Soziale Probleme und wenig Geld machen die Arbeit aber schwer."
   },
 
   HH: {
     title: "Hamburg",
-    score: 79,
-    text: "Hamburg hat viele Umweltprojekte, besonders im Hafen. Die Stadt setzt auf Elektrobusse und grüne Logistik. Außerdem gibt es viele Parks und Programme für saubere Luft."
+    score: 59,
+    text: "Hamburg kauft Elektro-Busse und baut Radwege. Die Stadt macht alte Häuser modern. Für große Windräder hat die Stadt aber leider keinen Platz."
   },
 
   HE: {
     title: "Hessen",
-    score: 77,
-    text: "Hessen baut viele moderne und energiesparende Gebäude. Frankfurt investiert in öffentlichen Verkehr und Fahrradwege. Der große Flughafen bleibt jedoch ein Umweltproblem."
+    score: 64,
+    text: "Hessen hat Ziele für die Zukunft. Häuser werden modern gemacht, um Energie zu sparen. Kinder lernen in der Schule etwas über die Natur."
   },
 
   MV: {
     title: "Mecklenburg-Vorpommern",
-    score: 83,
-    text: "Mecklenburg-Vorpommern produziert sehr viel Strom aus Wind- und Solarenergie. Der Tourismus ist oft naturfreundlich. Viele Küsten und Wälder stehen unter Naturschutz."
+    score: 91,
+    text: "Hier gibt es viele große Parks für Wind und Sonne. Das Land schützt die Küste und das Meer. Auch der Urlaub soll die Umwelt nicht kaputt machen."
   },
 
   NI: {
     title: "Niedersachsen",
-    score: 81,
-    text: "Niedersachsen ist ein Zentrum für Windenergie. Besonders an der Küste stehen große Windparks. Die Landwirtschaft wird langsam nachhaltiger und Städte fördern Bus und Bahn."
+    score: 84,
+    text: "In Niedersachsen gibt es viel Windkraft an Land und im Meer. Das Land hilft der Landwirtschaft und schützt die Natur in kleinen Dörfern."
   },
 
   NW: {
     title: "Nordrhein-Westfalen",
-    score: 69,
-    text: "NRW hat viel Industrie und deshalb auch viele Umweltprobleme. Es gibt große Programme für den Ausstieg aus der Kohle und für neue Energien. Der Wandel braucht aber noch Zeit."
+    score: 66,
+    text: "NRW hat Ziele für das Klima. Häuser und Busse sollen besser werden. Aber die große Industrie macht den Umweltschutz dort sehr schwierig."
   },
 
   RP: {
     title: "Rheinland-Pfalz",
-    score: 76,
-    text: "Rheinland-Pfalz setzt auf Solarenergie und umweltfreundliche Landwirtschaft. Viele kleine Städte haben gute Recyclingprogramme. Auch der Schutz der Wälder ist sehr wichtig."
+    score: 71,
+    text: "Das Land möchte Solar-Anlagen auf den Dächern. Häuser werden modernisiert. Es gibt Berichte über den Zustand der Natur."
   },
 
   SL: {
     title: "Saarland",
-    score: 67,
-    text: "Das Saarland war früher stark von Kohle und Stahl abhängig. Heute gibt es neue Projekte für saubere Energie und moderne Industrie. Die Umstellung auf Nachhaltigkeit ist noch schwierig."
+    score: 60,
+    text: "Das Saarland achtet auf fairen Handel. Die Menschen sollen weniger Müll machen. Aber das Land ist klein und hat wenig Geld für große Projekte."
   },
 
   SN: {
     title: "Sachsen",
-    score: 73,
-    text: "Sachsen investiert in erneuerbare Energien und moderne Technik. Städte wie Leipzig fördern Fahrradverkehr. Der Ausstieg aus der Kohle ist eine wichtige Aufgabe für die Zukunft."
+    score: 74,
+    text: "Sachsen hilft Firmen beim Energiesparen. Es gibt kleine Projekte für grünen Strom. Der Wechsel dauert hier aber länger als im Norden von Deutschland."
   },
 
   ST: {
     title: "Sachsen-Anhalt",
-    score: 71,
-    text: "Sachsen-Anhalt nutzt viel Wind- und Solarenergie. Es gibt innovative Projekte für grüne Chemie und Bioökonomie. Die Region arbeitet daran, die Wirtschaft umweltfreundlicher zu machen."
+    score: 72,
+    text: "Hier gibt es Windkraft und Sonnenenergie. Es gibt Projekte für Schulen zum Thema Klima. Aber in manchen Regionen klappt es besser als in anderen."
   },
 
   SH: {
     title: "Schleswig-Holstein",
-    score: 91,
-    text: "Schleswig-Holstein ist ein Vorreiter bei Windenergie. Das Bundesland produziert sehr viel grünen Strom und schützt die Küsten. Viele Haushalte nutzen erneuerbare Energie."
+    score: 93,
+    text: "Schleswig-Holstein hat sehr viel Windkraft. Das Land macht viel sauberen Strom. Manchmal ist es sogar mehr Strom, als die Menschen dort brauchen."
   },
 
   TH: {
     title: "Thüringen",
     score: 75,
-    text: "Thüringen hat viele Wälder und Naturgebiete. Das Land fördert nachhaltigen Tourismus und Solarenergie. Städte und Dörfer arbeiten an Energiesparen und besserem Recycling."
+    text: "Thüringen hat einen eigenen Plan für die Umwelt. Häuser sollen wenig Energie verbrauchen. Es gibt Bio-Bauern und gute Busse und Bahnen."
   }
 };
